@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AF_mobile</string>
+    <string-array name="categorias">
+        <item>Farmácia</item>
+        <item>Hospital</item>
+        <item>Escola</item>
+        <item>Restaurante</item>
+        <item>Mercado</item>
+    </string-array>
+</resources>
