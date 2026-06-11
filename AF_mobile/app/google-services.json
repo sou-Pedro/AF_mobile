@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653417150190",
+    "project_id": "af-mobile-13c91",
+    "storage_bucket": "af-mobile-13c91.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653417150190:android:21e66f49ace58c8d1325ff",
+        "android_client_info": {
+          "package_name": "com.example.af_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN4vOrN2Edue5-Gsec9Ei3umyzLnTx9Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
